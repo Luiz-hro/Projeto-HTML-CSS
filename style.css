@@ -1,0 +1,49 @@
+body {
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title, .subtitle, .posttitle {
+    color: indigo;
+}
+
+#title {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.posttitle {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background-color: honeydew;
+    padding: 10px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.bill {
+    margin-inline: 260px;
+}
+
+.post_cotent {
+    margin: 0;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.luiz {
+    margin-left: 47px;
+    margin-top: 10px;
+    border-radius: 50% ;
+    border: 2px solid rgb(75, 0, 130);
+}
+
+a {
+     color: rgb(75, 0, 130);
+}
